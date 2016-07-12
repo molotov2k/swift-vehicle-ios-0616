@@ -15,15 +15,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-        // Override point for customization after application launch.
         
-        /**
-         
-         * Manually test your classes here.
-         
-         */
         
-        // Do not alter
-        return true  //
-    }   //////////////
-}       /////////////
+        
+        
+        return true
+    }
+}
